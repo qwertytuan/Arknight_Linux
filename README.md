@@ -1,4 +1,7 @@
 # Arknight Linux with Waydroid
+Credits go to: 
+- [Waydroid Doc](https://docs.waydro.id/)
+- [casualsnek script](https://github.com/casualsnek/waydroid_script)
 
 # Step 1: Install Waydroid
 
