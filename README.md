@@ -80,6 +80,7 @@ Give the Google services some minutes to reflect the change, then restart waydro
 # Download the game in Chplay, qooapp, apkpure.... and install it
 Run this command in other terminal:
 ```bash
+waydroid prop set persist.waydroid.fake_touch com.YoStarEN.Arknights
 sudo waydroid shell
 ```
 And copy, paste and enter this
