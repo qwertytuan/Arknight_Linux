@@ -15,7 +15,7 @@ Run this command in the terminal:
 waydroid init
 ```
 
-# Step 2: Clone the Waydroid_script
+# Step 3: Clone the Waydroid_script
 
 ## Option 1: Clone the git repo
 
@@ -25,7 +25,7 @@ git clone https://github.com/casualsnek/waydroid_script
 
 ## Option 2: Download the [zip](https://github.com/casualsnek/waydroid_script) file and extract it
 
-# Step 3: Run the waydroid_script
+# Step 4: Run the waydroid_script
 
 - Navigate to the folder you just downloaded:
 ```bash
