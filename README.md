@@ -12,7 +12,7 @@ Go to this "[waydroid installation](https://docs.waydro.id/usage/install-on-desk
 Run this command in the terminal:
 
 ```bash
-waydroid init
+sudo waydroid init
 ```
 
 # Step 3: Clone the Waydroid_script
@@ -59,7 +59,7 @@ sudo zypper install lzip
 ```
 - Install googleplay, nicrog,libndk..
 ```bash
-sudo venv/bin/python3 main.py install gapps microg libndk widevine
+sudo venv/bin/python3 main.py install gapps libndk widevine microg
 ```
 - After the install, open waydroid full ui
 ```bash
